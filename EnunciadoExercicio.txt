@@ -1,0 +1,13 @@
+Um número A é dito permutação de um número B se os dígitos de A formam uma 
+permutação dos dígitos de B.
+
+Ex.: 5412434 é uma permutação de 4321445, mas não é uma permutação de 4312455.
+
+Obs.: Considere que o dígito 0 (zero) não aparece nos números.
+
+
+(a) Faça um método ContaDigitos que dados um inteiro N e um inteiro D, 0 < D < 9, 
+	devolve quantas vezes o dígito D aparece em N.
+
+(b) Usando o método ContaDigitos, faça um programa que lê dois inteiros positivos 
+	A e B e responda se A é permutação de B.

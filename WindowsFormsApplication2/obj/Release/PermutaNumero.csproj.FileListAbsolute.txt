@@ -10,3 +10,6 @@ C:\Users\Renato\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\W
 C:\Users\Renato\Documents\Visual Studio 2013\Projects\PermutaNumero\WindowsFormsApplication2\bin\Release\WindowsFormsApplication2.exe.config
 C:\Users\Renato\Documents\Visual Studio 2013\Projects\PermutaNumero\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.exe
 C:\Users\Renato\Documents\Visual Studio 2013\Projects\PermutaNumero\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.pdb
+C:\Git-Pessoal\PermutaNumero\WindowsFormsApplication2\bin\Release\WindowsFormsApplication2.exe.config
+C:\Git-Pessoal\PermutaNumero\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.exe
+C:\Git-Pessoal\PermutaNumero\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.pdb
